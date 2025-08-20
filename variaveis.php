@@ -1,5 +1,5 @@
 <?php 
-	echo ("Trabalhando com variaveis em PHP <br/>");
+	echo ("Trabalhando com estrutura de repetição <br/>");
 
 
  ?>
